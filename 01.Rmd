@@ -4,7 +4,7 @@
 
 tickets, exchange, sports, concerts, theatre, entertainment, fun, fun, fun
 
-## A free, yet complacent, marketplace..
+## A free, yet complacent, marketplace.
 
 Spending the last five years working for a market-making trading firm has deepened my appreciation of the efficiency and simplicity associated with the free market economic system. As fascinating as watching myriad derivatives marketplaces evolve and sophisticate over the years has been, it has been equally frustrating participating in other marketplaces which have shown little sign of innovation. One such example of a stagnant marketplace is that of secondary ticket. A long-time Chicago Cubs season ticket holder, I inevitably find myself trying to sell last-minute tickets to many of their 81 regular season home games as conflicts arise and other matters take priority. I currently have three options to do so:
 
@@ -13,7 +13,7 @@ Spending the last five years working for a market-making trading firm has deepen
 3.	List the tickets on an online ticket exchange such as StubHub or SeatGeek. While relatively painless to use, these sites are known for charging exorbitant fees (StubHub, for example, pockets 20% of every transaction) and significantly cut into sale margins. Also, like posting in classifieds, there is no guarantee a buyer will be found. 
 
 
-## It’s simple: buy low, sell high..
+## It’s simple: buy low, sell high.
 
 ScalpPlaza’s goal is to provide users with an efficient, two-sided marketplace for any and all live entertainment events. While most incumbent online ticket exchanges only display the prices at which tickets are offered, ScalpPlaza will display both bids and offers. This will allow users to buy or sell tickets in seconds when they’re in a rush or to try “cutting the market” in hopes of getting a better deal when they can afford to be patient. 
 
