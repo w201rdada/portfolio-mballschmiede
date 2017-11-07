@@ -2,7 +2,7 @@
 
 #### Keywords
 
-luxury, amenities, city-living, apartments, rentals, regression analysis, polls 
+luxury, amenities, city-living, apartments, microunits, regression analysis, polling, clustering, machine learning 
 
 ## Smaller apartments, bigger lifestyles.
 
