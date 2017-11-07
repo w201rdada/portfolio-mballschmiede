@@ -10,19 +10,7 @@ The last two centuries have seen a steady increase in the proportion of American
 
 ## Regress for progress.
 
-Apartment sizes will vary both within and between locations but the norm will be a space of roughly 60 square feet per person. Conversely, common areas will be spacious, plenty, and multi-functional. One of Relux's keys to success will be providing for and adapting to the constantly changing needs and desires of its potential inhabitants. ReLux hopes to gain a better understanding of what people in various cities value in their domestic spaces by supplementing an active dialogue with current inhabitants and traditional polls with modern data science techniques. Using regression analysis, clustering, and other machine learning techniques on the troves of publically available residential layout and housing price data will 
-
-be better suited to stay abreast of intra-city, inter-city, and nationwide housing and lifestyle trends in order to better tailor to its residents needs. 
-
-By applying extensive application of regression analysis, clustering, and other machine learning techniques to the troves of publicly available       
-
-Through extensive polling and regressive analysis of residential layouts, housing prices, and housing trends, ReLux hopes to gain a better understanding of what people in various cities value in their domestic spaces. 
-
-capable of tailoring to every need
-
-One of ReLux’s primary areas of research is focused on optimizing building layouts from city to city. 
-
-For example, would potential inhabitants in San Francisco tend to prefer extra offices or additional room to hang out? Would New Yorkers feel similarly or would they instead prefer a larger kitchen? 
+Apartment sizes will vary both within and between locations but the norm will be a space of roughly 60 square feet per person. Conversely, common areas will be spacious, plenty, and multi-functional. One of the keys to ReLux's success will be accomodating and adapting to the constantly changing needs and desires of society. ReLux hopes to gain a thorough understanding of what people in various cities value in their domestic spaces by supplementing traditional polling data and an active dialogue with prospective inhabitants with modern data science. Applying regression analysis, clustering, and other machine learning techniques to the troves of publically available housing data (residential layouts, housing prices, renovation details, etc.) should help ReLux better stay abreast of intra-city, inter-city, and nationwide trends. For example, would potential inhabitants in San Francisco's Mission District tend to prefer extra offices or additional space to hang out and socialize? Would those in Manhattan feel similarly or would they instead prefer a larger gym? Lifestyle trends will also be considered in ReLux's layout-optimization model; for example, kitchen space is likely to be a particular area of interest over the next few years as the growing meal kit industry has the potential to spark a resurgence in home cooking. 
 
 ReLux's target demographic is anyone and everyone who is fed up with the prices or structure of traditional apartment living. ReLux is for Dave, a transplant from another city who is looking to meet like-minded individuals and make some potential new friends. ReLux is for Susan, the workaholic who needs a nice, quiet place to sleep but does not want to splurge on a 600 square foot apartment. ReLux is for Betty, the entrepreneur who currently pays rent to sleep in one place and more rent to work in another. ReLux is for Juan, the commuter who is seeking a bit more intimacy and familiarity than he gets out of his traditional weekly hotel stays. ReLux aims to locate the cities where the Daves, Susans, Bettys, and Juans are most prevalent; this information can then be used in conjunction with further analysis of occupation distribution, cost of living indices, general geographical dispositions, and potential competition in order to determine its most promising expansion options. 
 
