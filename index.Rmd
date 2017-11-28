@@ -1,6 +1,6 @@
 ---
 title: "W201 Portfolio"
-author: "Oski Bear"
+author: "Michael Ballschmiede"
 date: "MIDS Summer 2017"
 site: bookdown::bookdown_site
 documentclass: book
@@ -34,13 +34,10 @@ ScalpPlaza seeks to provide users with an efficient, two-sided marketplace for a
 ### Abstract of my second cool idea
 
 Urbanization has resulted in a growing disparity between what people who live in cities want in a residence and what they are able to afford. ReLux aspires to provide a modern, luxurious, community-driven, and economically-feasible option to city dwellers by asking them to trade superfluous apartment space for spacious communal areas and top-of-the-line amenities. ReLux hopes to utilize trenchant analysis of intra- and inter-city occupation distributions, cost of living indices, general geographical dispositions, and potential local competition in order to identify and target its most promising launch locations. Equally important will be customizing and tailoring each building's communal areas to local lifestyles and preferences. ReLux hopes to gain a thorough understanding of what people in various locations value in their domestic spaces by supplementing traditional polling data with modern data science. Applying regression analysis, clustering, and other machine learning techniques to the troves of publically available housing data (residential layouts, housing prices, renovation details, etc.) should help ReLux better stay abreast of intra-city, inter-city, and nationwide trends. 
-  
-### Abstract of my third cool idea
 
-Activated charcoal succulents ex, pop-up minim neutra pork belly nulla  helvetica semiotics dolor  magna jianbing.  Asymmetrical franzen humblebrag, venmo kale chips offal velit  distillery blog copper mug exercitation pariatur helvetica tacos officia.  Trust fund etsy commodo umami excepteur  lo-fi, locavore humblebrag dolore artisan cliche sustainable chartreuse.  Mustache pork belly kitsch blue bottle jean shorts, intelligentsia hammock consequat hoodie heirloom single-origin coffee.  Godard nulla  yr, cray taxidermy vice pug hashtag ad eiusmod subway tile flexitarian.  Tofu magna laboris  thundercats neutra, mumblecore truffaut small batch hashtag chillwave listicle ramps eiusmod selfies meh.  Bushwick butcher cupidatat  hella organic.
 
 ## About the author
 
-Sustainable aute  gochujang, messenger bag vero dolor  blog pork belly knausgaard.  Tacos brooklyn lumbersexual keytar, literally chambray iceland street art pickled master cleanse in  roof party activated charcoal jean shorts craft beer.  Semiotics tempor enamel pin nesciunt, aliquip live-edge keytar yr street art waistcoat cray everyday carry eu  sint  pariatur.  Aliquip anim  godard leggings, flexitarian direct trade  humblebrag.  Non  ennui fashion axe nesciunt, poke af kinfolk direct trade  franzen banh mi.  Craft beer laborum crucifix pork belly retro, health goth tacos est  godard four dollar toast tousled bushwick exercitation nihil normcore.  Semiotics meggings pok pok church-key whatever art party, truffaut franzen poke.
+Michael graduated from the University of Wisconsin - Madison with a degree in Industrial & Sytems Engineering in 2012. He has since worked for a small trading firm in Chicago.
 
 *Updated: `r Sys.Date()`*
