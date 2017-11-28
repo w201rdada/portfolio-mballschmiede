@@ -19,7 +19,9 @@ library(magrittr)
 knitr::include_graphics('img/hello-world.png')
 ```
 
-Pariatur sapiente anim  waistcoat bicycle rights.  Cupidatat  chambray portland direct trade, XOXO odio gochujang banjo deep v sustainable.  Sint  jianbing DIY humblebrag heirloom exercitation ennui fanny pack.  Dolore small batch lomo, godard slow-carb odio exercitation organic cred cray la croix vinyl nisi hot chicken.  Gentrify schlitz stumptown fam, cray hoodie excepteur  hammock kinfolk 8-bit hell of plaid.  Helvetica hashtag pinterest typewriter, tbh vape vero farm-to-table.  Laboris  bitters aliqua small batch.
+My portfolio consists of two ideas; Love-with-AI and Live Long. The first idea (Love-with-AI) aims to apply deep learning techniques in online dating apps to help people find successful dating partners. The second idea (Live Long) aims to apply machine learning techniques in order to "hack" life's algolithm and enable people to live longer.
+
+The following sections detail my two big ideas for data science. The first idea, A Kernel of Health, seeks to find possible causes for idiopathic medical conditions by harnessing networks of patients to reveal patterns that have thus far gone undetected. The second idea, A Speaker for Crows, aims to leverage available recorded calls by crows and other corvids to enable bird identification without the need for tagging. As I explain in the short video linked below, these proposals are presented in order of priority and anticipated impact -- I hope you will agree that the first is particularly worthy of continued team development!
 
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
 <p>
@@ -39,6 +41,6 @@ Urbanization has resulted in a growing disparity between what people who live in
 
 ## About the author
 
-Michael graduated from the University of Wisconsin - Madison with a degree in Industrial & Systems Engineering in 2012. He has since been in Chicago working for a proprietary trading firm specializing in options market-making. While his primary responsibilties include actively trading and managing a U.S. Treasury options portfolio, Michael also enjoys collaborating with the dev team to design and implement innovative new trading strategies. Apart from buying low and selling high, Michael's passions include travelling, running, sports, Chipotle, flannels, and live music.
+Michael graduated from the University of Wisconsin - Madison in 2012 after receiving his BA in Industrial & Systems Engineering. He soon after moved to Chicago, where he has since remained working for a proprietary trading firm specializing in market-making. While his primary day-to-day responsibilties include actively trading and managing a U.S. Treasury options portfolio, Michael is also passionate about developing and implementing innovative new trading strategies. Michael joined UC Berkeley's MIDS program in 2017, where he hopes to continue building his analytical toolset in order to tackle ever-bigger and more complex problems. Apart from playing with numbers, Michael enjoys travelling, running, sports, Chipotle, flannels, and live music.
 
 *Updated: `r Sys.Date()`*
