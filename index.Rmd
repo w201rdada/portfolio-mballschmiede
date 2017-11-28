@@ -28,13 +28,13 @@ Below you'll find two ideas through which I believe an application of data scien
 knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
 ```
 
-### Abstract: ScalpPlaza
+### Abstract: ScalpPlaza {-}
 
 ScalpPlaza seeks to provide users with an efficient, two-sided ticket marketplace for any and all live entertainment events. While most incumbent online ticket exchanges only display the price at which tickets are offered, ScalpPlaza will display both bids and offers. 
 ScalpPLaza aims to address these concerns 
 This will allow users to buy or sell tickets in seconds when they’re in a rush or to try “cutting the market” in hopes of getting a better deal when they can afford to be patient. ScalpPlaza’s primary differentiating factor, however, is its ability and willingness to act as a middleman by transacting with its users and accumulating ticket positions when the market is illiquid. This will be made possible through the use of a data-driven algorithmic ticket-pricing model. Essentially, ScalpPlaza aims to utilize historical data, market trends, and machine-learning in order to best predict what a ticket is worth on the open market based on the event’s original ticket price and a multitude of other pertinent intrinsic (performer(s), location, venue, date, social media #buzz, etc) and extrinsic (expected weather, other happenings in the area, etc) factors. The model will eventually use this estimated ticket value and a confidence interval to generate both bid and offer prices for any given ticket. These prices will then drift dynamically based on informational changes, order flow, and ScalpPlaza’s internal ticket inventory. 
 
-### Abstract: ReLux
+### Abstract: ReLux {-}
 
 Urbanization has resulted in a growing disparity between what people who live in cities want in a residence and what they are able to afford. ReLux aspires to provide a modern, luxurious, community-driven, and economically-feasible option to city dwellers by asking them to trade superfluous apartment space for spacious communal areas and top-of-the-line amenities. ReLux hopes to utilize trenchant analysis of intra- and inter-city occupation distributions, cost of living indices, general geographical dispositions, and potential local competition in order to identify and target its most promising launch locations. Equally important will be customizing and tailoring each building's communal areas to local lifestyles and preferences. ReLux hopes to gain a thorough understanding of what people in various locations value in their domestic spaces by supplementing traditional polling data with modern data science. Applying regression analysis, clustering, and other machine learning techniques to the troves of publically available housing data (residential layouts, housing prices, renovation details, etc.) should help ReLux better stay abreast of intra-city, inter-city, and nationwide trends. 
 
