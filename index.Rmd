@@ -37,6 +37,6 @@ Urbanization has resulted in a growing disparity between what people who live in
 
 ## About the author
 
-Michael graduated from the University of Wisconsin - Madison with a degree in Industrial & Sytems Engineering in 2012. He has since been in Chicago working for a proprietary trading firm specializing in options market-making. While his primary responsibilties include actively trading and managing a U.S. Treasury options portfolio, Michael also enjoys collaborating with the dev team to design and implement innovative new trading strategies. Apart from buying low and selling high, Michael's passions include travelling, running, sports, Chipotle, flannels, and live music.
+Michael graduated from the University of Wisconsin - Madison with a degree in Industrial & Systems Engineering in 2012. He has since been in Chicago working for a proprietary trading firm specializing in options market-making. While his primary responsibilties include actively trading and managing a U.S. Treasury options portfolio, Michael also enjoys collaborating with the dev team to design and implement innovative new trading strategies. Apart from buying low and selling high, Michael's passions include travelling, running, sports, Chipotle, flannels, and live music.
 
 *Updated: `r Sys.Date()`*
