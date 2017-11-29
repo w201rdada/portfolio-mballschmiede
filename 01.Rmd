@@ -24,7 +24,7 @@ For example, say a certain 2018 Lady Gaga concert ticket has an estimated market
 
 test4
 
-```{r SPFlowChart,echo=FALSE,fig.cap='SPFlowChart',fig.align='center', out.width=3000, fig.asp = 1}
+```{r SPFlowChart,echo=FALSE,fig.align='center', out.width=4000, fig.asp = 1}
 knitr::include_graphics('img/SPFlowChart.PNG')
 ```
 
