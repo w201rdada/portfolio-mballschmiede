@@ -22,9 +22,9 @@ ScalpPlaza’s primary differentiating factor, however, is its ability and willi
 For example, say a certain 2018 Lady Gaga concert ticket has an estimated market value of $50. ScalpPlaza's initial bid and offer prices may be $30 and $70, respectively. By 2019, all else remaining equal, ScalpPlaza may be willing to buy that same Lady Gaga ticket (for a 2019 show, holding all other variables constant) for $40 and sell it for $60 due to increased certainty in the model's underlying $50 ticket valuation.
 ![Here's an oversimplified decision tree demonstrating how ScalpPlaza's dynamic pricing system will work based on the order flow for General Admission tickets to an arbitrary concert.](https://github.com/w201rdada/portfolio-mballschmiede/blob/master/Simplified%20Flowchart%20Example.PNG)
 
-test
+test2
 
-```{r SPFlowChart,echo=FALSE,fig.cap='SPFlowChart',fig.align='center', fig.width=15, fig.asp = 1}
+```{r SPFlowChart,echo=FALSE,fig.cap='SPFlowChart',fig.align='center', fig.width=30, fig.asp = 1}
 knitr::include_graphics('img/SPFlowChart.PNG')
 ```
 
