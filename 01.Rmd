@@ -23,6 +23,9 @@ For example, say a certain 2018 Lady Gaga concert ticket has an estimated market
 ![Here's an oversimplified decision tree demonstrating how ScalpPlaza's dynamic pricing system will work based on the order flow for General Admission tickets to an arbitrary concert.](https://github.com/w201rdada/portfolio-mballschmiede/blob/master/Simplified%20Flowchart%20Example.PNG)
 
 
+knitr::include_graphics('img/ScalpPlaza.png')
+
+
 ## Let the machine go to work
 
 ScalpPlaza’s ultimate goal is to end the age-old “maximize profit or save energy” debate had by those in the secondhand ticket marketplace by providing them with a tight, two-sided ticket exchange platform. ScalpPlaza's largest challenge will likely be trying to carve out its own niche in what is already a oversaturated secondhand ticket marketplace, led be the eBay-owned behemoth StubHub. The concept of “shorting” tickets is another potential issue which will have to be investigated, both legally and logistically, before launching. Trying to wedge ScalpPlaza’s foot in the door will be an arduous process but if it can succeed in attracting even a small base of regular users, a steep growth curve should ensue as its machine-learning algorithm goes to work. The more ticket transactions that go through ScalpPlaza, the more data it acquires, the smarter its algorithm becomes, and the tighter ticket markets its willing to offer become.  The tighter the markets, the more likely customers are to return for their next secondary ticket transaction. Increased customer traffic leads to even more troves of data being fed into ScalpPlaza's machine-learning algorithm, and the cycle starts over. While data represent the grease that makes the ScalpPlaza wheels turn, the end result is a sustainable marketplace which can leverage its multiple revenue streams in order to charge its customers significantly lower fees than its competitors.
