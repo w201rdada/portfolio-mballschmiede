@@ -23,7 +23,7 @@ For example, say a certain 2018 Lady Gaga concert ticket has an estimated market
 ![Here's an oversimplified decision tree demonstrating how ScalpPlaza's dynamic pricing system will work based on the order flow for General Admission tickets to an arbitrary concert.](https://github.com/w201rdada/portfolio-mballschmiede/blob/master/Simplified%20Flowchart%20Example.PNG)
 
 ```{r SPFlowChart,echo=FALSE,fig.cap='SPFlowChart',fig.align='center',out.width='50%'}
-knitr::include_graphics('img/SPFlowChart.png')
+knitr::include_graphics('img/SPFlowChart.PNG')
 ```
 
 
