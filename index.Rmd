@@ -20,7 +20,7 @@ Below you'll find two ideas through which I believe an application of data scien
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
 <p>
 ```{r hello-benji,echo=FALSE,fig.cap='Meet ScalpPlaza',fig.align='center'}
-knitr::include_url('https://drive.google.com/open?id=1h3J_SDO4TQ1Bx3WwIvI3c-aSAvCqKAoB/preview')
+knitr::include_url('<iframe src="https://drive.google.com/file/d/1GCqUgTRmTTabAGH1muIvqyTX3whN_b9Q/preview" width="640" height="480"></iframe>')
 ```
 
 ### Abstract: ScalpPlaza {-}
