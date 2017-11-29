@@ -119,7 +119,12 @@
 <p>ScalpPlaza’s goal is to provide users with an efficient, two-sided marketplace for any and all live entertainment events. While most incumbent online ticket exchanges only display the prices at which tickets are offered, ScalpPlaza will display both bids and offers. This will allow users to buy or sell tickets in seconds when they’re in a rush or to try “cutting the market” in hopes of getting a better deal when they can afford to be patient.</p>
 <p>ScalpPlaza’s primary differentiating factor, however, is its ability and willingness to act as a middleman by transacting with its users and accumulating ticket positions when the market is illiquid. This will be made possible through the use of a data-driven algorithmic ticket-pricing model. Essentially, ScalpPlaza aims to utilize historical data, market trends, and machine-learning in order to best predict what a ticket is worth on the open market based on the event’s original ticket price and a multitude of other pertinent intrinsic (performer(s), location, venue, date, social media #buzz, etc) and extrinsic (expected weather, other happenings in the area, etc) factors. The model will eventually pair this estimated ticket value with a confidence interval to generate both bid and offer prices for any given ticket. These prices will then drift dynamically based on informational changes, order flow, and ScalpPlaza’s internal ticket inventory. While the model’s confidence intervals will inevitably be relatively large on Day 1, more data will lead to lower estimated ticket value variances and smaller intervals down the line.</p>
 <p>For example, say a certain 2018 Lady Gaga concert ticket has an estimated market value of $50. ScalpPlaza’s initial bid and offer prices may be $30 and $70, respectively. By 2019, all else remaining equal, ScalpPlaza may be willing to buy that same Lady Gaga ticket (for a 2019 show, holding all other variables constant) for $40 and sell it for $60 due to increased certainty in the model’s underlying $50 ticket valuation. <img src="https://github.com/w201rdada/portfolio-mballschmiede/blob/master/Simplified%20Flowchart%20Example.PNG" alt="Here’s an oversimplified decision tree demonstrating how ScalpPlaza’s dynamic pricing system will work based on the order flow for General Admission tickets to an arbitrary concert." /></p>
-<p>knitr::include_graphics(‘img/SPFlowChart.png’)</p>
+<div class="figure" style="text-align: center"><span id="fig:SPFlowChart"></span>
+<img src="img/SPFlowChart.png" alt="SPFlowChart" width="50%" />
+<p class="caption">
+Figure 1.1: SPFlowChart
+</p>
+</div>
 </div>
 <div id="let-the-machine-go-to-work" class="section level2">
 <h2><span class="header-section-number">1.3</span> Let the machine go to work</h2>
