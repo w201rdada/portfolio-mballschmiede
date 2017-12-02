@@ -1,6 +1,6 @@
 # ReLux: Pay for community and amenities, not superfluous apartment space {#Rearranged-Luxury}
 
-#### Keywords
+#### Keywords {-}
 
 luxury, amenities, city living, apartments, microunits, regression analysis, polling, clustering, machine learning 
 
