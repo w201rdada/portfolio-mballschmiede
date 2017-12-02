@@ -1,6 +1,6 @@
 # ScalpPlaza: A More Efficient Secondary Ticket Marketplace {#ScalpPLaza}
 
-#### Keywords
+#### Keywords {-}
 
 tickets, exchange, sports, concerts, theatre, entertainment, machine learning, clustering, optimization, market analysis, fun, fun, fun
 
